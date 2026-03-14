@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: 20px;
+}
+h1 {
+    color:red;
+}
+
+/*Associação pelo ID do elemento*/
+#tit_2 {
+    font-size: 15px;
+}
+
+/*Associação pela CLASSE do elemento*/
+.noticias {
+    font-family: arial;
+}
